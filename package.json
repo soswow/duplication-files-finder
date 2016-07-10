@@ -1,0 +1,18 @@
+{
+  "name": "hash-all-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-walk": "0.0.1",
+    "md5-file": "^3.1.1",
+    "node-dir": "^0.1.15",
+    "q": "^1.4.1",
+    "walk": "^2.3.9"
+  }
+}
